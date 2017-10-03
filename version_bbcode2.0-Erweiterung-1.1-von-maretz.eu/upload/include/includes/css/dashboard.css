@@ -1,0 +1,66 @@
+/* Dashboard Ilch CMS by Maretz.eu */
+
+.paddingdashboard {
+padding: 4px;
+}
+.padding1dashboard {
+padding: 1px;
+}
+.dashboardborder {
+display:block;
+width: 100%;
+margin: 0px;
+margin-top: -1px!important;
+}
+.dashboardtable{
+border: 0;
+width: 100%;
+border-collapse: collapse;
+}
+.dashboardtable tr,
+.dashboardtable td {
+border: 0px solid #ccc;
+padding: 2px;
+}
+.drashboardavatar {
+border: 2px solid #fff;
+height:50px;
+width: auto;
+box-shadow: 0 0 0 1px #ccc;
+}
+.dbverticaltop {
+vertical-align:top;
+}
+.dbtextright {
+text-align:right;
+}
+.dbtextcenter {
+text-align:center;
+}
+.dbvorschau {
+margin-top:5px;
+}
+.dboardin {
+overflow: hidden;
+width: 100%;
+}
+.dboardinpadding {
+padding:3px;
+}
+.dashb55 {
+width:55px;
+}
+.dashb10 {
+width:10px;
+}
+.dashbheute {
+color: #FF0000;
+}
+.dbbcodenone,
+.bbcode_image {
+display:none;
+}
+.dbbcodesmilie {
+max-height: 20px;
+width: auto;
+}
