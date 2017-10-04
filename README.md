@@ -1,5 +1,9 @@
 Dashboard für Ilch 1.1p
 
+![alt tag](http://www.ilch.de/include/images/usergallery/img_2581.jpg)
+
+![alt tag](http://www.ilch.de/include/images/usergallery/img_2582.jpg)
+
 Diese Seite zeigt die letzten Aktivitäten im Bereich Forum, News und Kommentare an.
 Optional kann eine Vorschau angezeigt werden.
 Im Adminbereich unter Konfiguration > Dashboard können die jeweilgen Bereiche ausgeblendet werden. Zudem ist auch die Anzahl der Einträge frei einstellbar.
