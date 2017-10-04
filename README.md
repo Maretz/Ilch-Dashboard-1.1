@@ -21,14 +21,3 @@ Es sollte die passende Version gewählt werden! (je nach dem, welche BBCode Vers
 
 Alle Dateien aus dem Ordner upload der richtigen Version nach include aufladen.
 Die Installation ausführen. ( www.meine-seite.de/?installation )
-
-
-
-
-Haftungsausschluss:
-____________________________________
-
-Bei Problemen bitte den Support auf Maretz.eu aufsuchen.
-Ich übernehme keine Haftung für dieses Modul. Nutzung ausschließlich auf eigene Gefahr!
-
-Mfg Maretz.eu / Maretz
